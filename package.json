@@ -1,0 +1,19 @@
+{
+  "name": "dctb-module-by-github",
+  "version": "1.0.0",
+  "description": "Just a simple example to use a module in NodeJS with GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogocezar/dctb-module-by-github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogocezar/dctb-module-by-github/issues"
+  },
+  "homepage": "https://github.com/diogocezar/dctb-module-by-github#readme"
+}
